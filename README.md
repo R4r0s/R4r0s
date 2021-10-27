@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on Open Source proyects, Machine Learning and Cyber Sequrity.
 
-- 💬 Ask me about anything [here.](https://github.com/R4r0s/R4r0s/issues)
+- 💬 Ask me anything [here.](https://github.com/R4r0s/R4r0s/issues)
 
 
 ### Skills:
