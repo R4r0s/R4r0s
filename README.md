@@ -38,4 +38,4 @@
 ### Stats and Languages:
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).*
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4r0s&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4r0s&layout=compact&theme=synthwave&hide=javascript,html,php,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R4r0s&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R4r0s&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
