@@ -2,7 +2,7 @@
 
 -  :round_pushpin: I´m a young developer from Bilbao, Spain.
 
-- 🌱 I’m currently studying Software Engineering at U-tad University.
+- 🌱 I’m currently working as a FullStack Developer for Cognizant.
 
 - 👯 I’m looking to collaborate on Open Source proyects, Machine Learning and Cyber Sequrity.
 
